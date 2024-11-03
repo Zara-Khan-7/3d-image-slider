@@ -1,7 +1,4 @@
 export default function Slider(){
-  const sliderStyle = {
-    '--quantity': '10'
-  } as React.CSSProperties;
   return(
     <div>
       <div className="banner">
